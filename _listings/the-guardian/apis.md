@@ -15,8 +15,8 @@ tags:
 - Media
 - Data
 - API United Kingdom
-created: "2018-03-15"
-modified: "2018-03-15"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/the-guardian/master/_listings/the-guardian/apis.yaml
 specificationVersion: "0.14"
 apis:
