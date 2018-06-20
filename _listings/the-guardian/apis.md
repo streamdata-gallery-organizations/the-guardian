@@ -9,10 +9,10 @@ description: The Guardian is a British national daily newspaper which has grown 
   including partnership opportunities via platform program.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: The Guardian
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/the-guardian/master/_listings/the-guardian/apis.md
 specificationVersion: "0.14"
 apis:
