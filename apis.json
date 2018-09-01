@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - The Guardian",
+	"description": "This is a repository of the guardian APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/the-guardian.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://the-guardian.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "The Guardian",
+			"x-api-slug": "the-guardian",
+			"description": "The Guardian is a British national daily newspaper which has grown into a national paper associated with a complex organisational structure and an international multimedia and web presence. The Guardian provides API access to articles accessible by tag and section, and a suite of open source data and tools. The Guardian makes content accessible to increase traffic, brand awareness, and as a marketing vehicle, including partnership opportunities via platform program.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-guardian-logo.png",
+			"humanURL": "http://www.guardian.co.uk/open-platform",
+			"baseURL": "https:///",
+			"tags": "The Guardian",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/the-guardian/master/_listings/the-guardian/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "The Guardian",
+	"include": [
+		{
+			"name": "The Guardian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/the-guardian/master/_listings/the-guardian/apis.yaml"
+		}
+	]
+}
